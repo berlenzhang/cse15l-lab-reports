@@ -1,3 +1,2 @@
-hi
 
-![Image](cdImage.jpg)
+![Image](cdScreenshot.jpg)
