@@ -13,4 +13,6 @@ The above image shows the `cd` command being ran with a directory path as an arg
 
 The above image is an example of the `cd` command being ran with a file name as an argument. The working directory when the command was run is home. Running the code resulted in an error. This is because the command `cd` does not take a file name as an argument. 
 
+# ls command
 
+![Image](lsNoArg.jpg)
