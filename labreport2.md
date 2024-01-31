@@ -1,5 +1,5 @@
 **First Screenshot**
 
-![ChatServer1.jpg]
+![Image](ChatServer1.jpg)
 
 
