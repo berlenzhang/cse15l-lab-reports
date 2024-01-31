@@ -23,9 +23,9 @@ The above image is an example of the `ls` command being ran with no argument. Th
 
 The above image is an example of the `ls` command being ran with a directory path as an argument. The working directory when the command was run is `/home`. The output of the command being run is shown in the image. It is a list of the directory paths from the folder lecture1, which was the argument. This is not an error because a directory is accepted as an argument for the `ls` command.
 
-![Image](lsFile.jpg)
+![Image](NewlsFile.jpg)
 
-The above image is an example of the `ls` command being ran with a path to a file as an argument. The working directory when the command was run is `/home`. The output of the command being run is an error message. This is because the `ls` command does not accept a file path as an argument.
+The above image is an example of the `ls` command being ran with a path to a file as an argument. The working directory when the command was run is `/home`. The output of the command being run is the name of the file. That is what happens when the command `ls` receives a file name as an argument. This is not an error.
 
 # cat command
 
