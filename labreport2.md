@@ -14,3 +14,10 @@ The method being used in the picture above is the `add-message` function. The re
 
 The method being used in the above image is the `add-message` function. The relevant arguments are the message `hello` and the user `vlad`. The string value `vlad: hello` will be added to the static variable `message` in the class. 
 
+
+**Private and Public Keywords**
+
+![Image](keyword.jpg)
+
+The first line in the above image is shows the absolute path to the private key. The second line shows the absolute path to the public key.
+
