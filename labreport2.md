@@ -1,6 +1,6 @@
 **My Code**
 
-![Image]()
+![Image](CodeScreenshot.jpg)
 
 **First Screenshot**
 
