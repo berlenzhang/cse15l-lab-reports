@@ -56,7 +56,7 @@ Input 1: `less -N technical/911report/chapter1.txt`
 
 Output 1:
 
-`
+```
 1 
       2         
       3                 
@@ -73,7 +73,7 @@ Output 1:
       8     For those heading to an airport, weather conditions could not have been better for
       8  a safe and pleasant journey. Among the travelers were Mohamed Atta and Abdul Aziz al 
       8 Omari, who arrived at the airport in Portland, Maine.
-`
+```
 
 **`less -m` Command From Source https://man7.org/linux/man-pages/man1/less.1.html**
 
