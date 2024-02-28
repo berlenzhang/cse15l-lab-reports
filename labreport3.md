@@ -1,6 +1,6 @@
 # Bugs
 
-*Failure Inducing Code* 
+**Failure Inducing Code:**
 
 `@Test
   public void testReverse2() {
