@@ -6,7 +6,8 @@
   public void testReverse2() {
     int[] input2 = {1, 2, 3};
     assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input2));
-  }`
+  }
+`
 
 **Successful Input**
 
@@ -14,6 +15,7 @@
   public void testReversed() {
     int[] input1 = { };
     assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
-  }`
+  }
+`
 
 
