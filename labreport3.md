@@ -20,6 +20,6 @@
 
 **Symptom:**
 
-![Image](BugsOutputScreenshot)
+![Image](BugsOutputScreenshot.jpg)
 
 
