@@ -55,6 +55,7 @@ The issue with the code shown in the before image was that it was taking values 
 Input 1: `less -N technical/911report/chapter1.txt`
 
 Output 1:
+
 `
 1 
       2         
