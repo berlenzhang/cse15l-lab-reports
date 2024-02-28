@@ -11,7 +11,8 @@
 
 **Successful Input:**
 
-`@Test
+`
+@Test
   public void testReversed() {
     int[] input1 = { };
     assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
