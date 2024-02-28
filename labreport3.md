@@ -96,8 +96,165 @@ Output 2:
      10         measurements. Possible reasons for patients dropping 
      10 out of
 ```
+
+This command shows the text numbered lines. This can be useful for finding a specific line.
+
 **`less -m` Command From Source https://man7.org/linux/man-pages/man1/less.1.html**
 
-**`&pattern` Command From Source https://phoenixnap.com/kb/less-command-in-linux**
+Input 1: `less -m technical/911report/chapter2.txt`
+
+Output 1: 
+```
+ THE FOUNDATION OF THE NEW TERRORISM
+            A DECLARATION OF WAR
+            In February 1998, the 40-year-old Saudi exile Usama Bin Ladin and a f
+ugitive Egyptian
+                physician, Ayman al Zawahiri, arranged from their Afghan headquar
+ters for an Arabic
+                newspaper in London to publish what they termed a fatwa issued in
+ the name of a
+                "World Islamic Front." A fatwa is normally an interpretation of I
+slamic law by a
+                respected Islamic authority, but neither Bin Ladin, Zawahiri, nor
+ the three others
+                who signed this statement were scholars of Islamic law. Claiming 
+that America had
+                declared war against God and his messenger, they called for the m
+urder of any
+                American, anywhere on earth, as the "individual duty for every Mu
+slim who can do it
+                in any country in which it is possible to do it."
+            
+            Three months later, when interviewed in Afghanistan by ABC-TV, Bin La
+din enlarged on
+                these themes.
+            
+            He claimed it was more important for Muslims to kill Americans than t
+o kill other
+                infidels." It is far better for anyone to kill a single American 
+soldier than to
+                squander his efforts on other activities," he said. Asked whether
+ he approved of
+2%
+```
+
+Input 2: `less -m technical/government/Env_Prot_Agen/bill.txt`
+
+Output 2: 
+```
+(1)
+The term "actual 1985 emission rate", for electric
+utility units means the annual sulfurdioxide or nitrogen oxides
+emission rate in pounds per million Btu as reported in the NAPAP
+Emissions Inventory, Version 2, National Utility Reference File.
+For nonutility units, the term "actual 1985 emission rate" means
+the annual sulfur dioxide or nitrogen oxides emission rate in
+pounds per million Btu as reported in the NAPAP Emission Inventory,
+Version 2.
+
+
+(2)
+The term "allowable 1985 emissions rate" means a
+federally enforceable emissionslimitation for sulfur dioxide or
+oxides of nitrogen, applicable to the unit in 1985 or the
+limitation applicable in such other subsequent year as determined
+by the Administrator if such a limitation for 1985 does not exist.
+Where the emissions limitation for a unit is not expressed in
+pounds of emissions per million Btu, or the averaging period of
+that emissions limitation is not expressed on an annual basis, the
+Administrator shall calculate the annual equivalent of that
+emissions
+29%
+```
+
+This command displays a percentage that indicated how far you are in the text of the file. This can be useful to figure out what part of the file you are currently looking at.
+
+
+**`&` Command From Source https://phoenixnap.com/kb/less-command-in-linux**
+
+Input 1: `less technical/911report/chapter-9.txt` then `&September`
+
+Output 1: 
+```
+Emergency response is a product of preparedness. On the morning of September 11,
+                Some civilians have told us that their evacuation on September 11 was greatly aided
+            Six weeks before the September 11 attacks, control of the WTC was transferred by net
+                were no longer part of the official chain of command. However, on September 11, most
+                the WTC on September 11, the WTC fire safety plan remained essentially the
+            Port Authority Police Department. On September 11, 2001, the Port Authority of New
+            As of September 11, the Port Authority lacked any standard operating procedures to
+            As of September 11, FDNY companies and chiefs responding to a fire used analog,
+                of September 11, they were not prepared to comprehensively coordinate their efforts
+            As we turn to the events of September 11, we are mindful of the unfair perspective
+```
+
+Input 2: `less technical/biomed/1471-213X-3-7.txt` then `&animals`
+
+Output 2: 
+```
+ Many animals have evolved to survive seasonally
+        In most animals diapause can occur only at a specific
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+```
+
+This command finds lines that contain the inputed word. This can be useful if you want to find a specific word in the file.
 
 **`G` Command From Source https://linux.die.net/man/1/less**
+
+Input 1: `less technical/biomed/1471-230X-1-10.txt` then `G`
+
+Output 1: 
+```
+ Competing Interests
+        None declared.
+      
+      
+        Grant Support
+        Part of this work was supported by a VA Merit Review
+        Grant
+      
+      
+        Abbreviations
+        IBAT: ileal bile acid transporter; CFTR: cystic fibrosis
+        transmembrane conductance regulator. This is the protein
+        product of the Cystic Fibrosis gene and is considered to
+        act as a Cl channel. TBS: Tris-buffered saline.
+      
+    
+  
+(END)
+```
+
+Input 2: `less technical/911report/chapter-5.txt` then `G`
+
+Output 2: 
+```
+                   and give them necessary training;
+                an intelligence effort to gather required information and form assessments of
+                    enemy strengths and weaknesses;
+                the ability to move people; and
+                the ability to raise and move the necessary money.
+            
+            The information we have presented about the development of the planes operation shows
+                how, by the spring and summer of 2000, al Qaeda was able to meet these requirements.
+            By late May 2000, two operatives assigned to the planes operation were already in the
+                United States. Three of the four Hamburg cell members would soon arrive.
+        
+    
+(END)
+```
+
+This command jumps to the end of the file. This can be helpful if you want to skip to the end of a file.
+
