@@ -10,7 +10,7 @@ Keys Pressed: `ssh byzhang@ieng6.ucsd.edu <enter>` Procedure for logging into ie
 
 ![Image](step5.jpg)
 
-Keys Pressed: 
+Keys Pressed: `git clone <Command V> <enter>` Procedure for cloning a repository. The `<Command V` was me pasting the repository URL.
 
 **Step 6:**
 
