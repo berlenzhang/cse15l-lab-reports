@@ -22,7 +22,7 @@ Keys Pressed: `cd la<Tab><Enter>`, `bash t<Tab><Enter>` The first command was to
 
 ![Image](step7.jpg)
 
-Keys Pressed: `vim ListExamples.<Tab><Enter>`, `43j`, `3e`, `x`, `2`, `wq! <Enter>`
+Keys Pressed: `vim ListExamples.<Tab><Enter>`, `43j`, `3e`, `x`, `2`, `wq! <Enter>`The first command opens the file in vim. The second command skips to the 44th line. The 3rd command traverses to the character I want to edit. The fourth command deletes the character. The fifth command replaced that character with 2. The last command saved and left the file.
 
 **Step 8:**
 
