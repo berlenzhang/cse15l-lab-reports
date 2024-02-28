@@ -9,7 +9,7 @@
   }
 `
 
-**Successful Input**
+**Successful Input:**
 
 `@Test
   public void testReversed() {
@@ -17,5 +17,9 @@
     assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
   }
 `
+
+**Symptom:**
+
+![Image](BugsOutputScreenshot)
 
 
