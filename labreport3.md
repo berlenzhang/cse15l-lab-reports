@@ -2,22 +2,23 @@
 
 **Failure Inducing Input:**
 
-`@Test
+```
+@Test
   public void testReverse2() {
     int[] input2 = {1, 2, 3};
     assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input2));
   }
-`
+```
 
 **Successful Input:**
 
-`
+```
 @Test
   public void testReversed() {
     int[] input1 = { };
     assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
   }
-`
+```
 
 **Symptom:**
 
@@ -25,25 +26,27 @@
 
 **Before**
 
-`static int[] reversed(int[] arr) {
+```
+static int[] reversed(int[] arr) {
     int[] newArray = new int[arr.length];
     for(int i = 0; i < arr.length; i += 1) {
       arr[i] = newArray[arr.length - i - 1];
     }
     return arr;
   }
-`
+```
 
 **After**
 
-`static int[] reversed(int[] arr) {
+```
+static int[] reversed(int[] arr) {
     int[] newArray = new int[arr.length];
     for(int i = 0; i < arr.length; i += 1) {
       newArray[i] = arr[arr.length - i - 1)];
     }
     return newArray;
   }
-`
+```
 
 The issue with the code shown in the before image was that it was taking values from the `newArray` and using them to replace elements in `arr`. Since `newArray` is an empty array, the code would just replace all the values of the given array with zeros. The after code fixed this issue by taking the values from the first array and inserting them into the empty `newArray` backwards. Then, `newArray` is returned.
 
@@ -75,6 +78,24 @@ Output 1:
       8 Omari, who arrived at the airport in Portland, Maine.
 ```
 
+Input 2: `less -N technical/biomed/1468-6708-3-4.txt`
+
+Output 2: 
+```
+1 
+      2   
+      3     
+      4       
+      5         Introduction
+      6         With the exception of counting deaths from all causes
+      6 , a
+      7         common problem in clinical trials is the missing data
+      8         caused by patients who do not complete the study in f
+      8 ull
+      9         schedule and drop out of the study without further
+     10         measurements. Possible reasons for patients dropping 
+     10 out of
+```
 **`less -m` Command From Source https://man7.org/linux/man-pages/man1/less.1.html**
 
 **`&pattern` Command From Source https://phoenixnap.com/kb/less-command-in-linux**
