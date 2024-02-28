@@ -16,7 +16,7 @@ Keys Pressed: `git clone <Command V> <enter>` Procedure for cloning a repository
 
 ![Image](step6.jpg)
 
-Keys Pressed: 
+Keys Pressed: `cd la<Tab><Enter>`, `bash t<Tab><Enter>` The first command was to change directories into `lab7`. I hit `<Tab>` after only typing the first two letters of the directory name `lab7`. This autofilled the rest of the directory name. The second command was to run the tests in `test.sh`. I also used `<Tab>` to autofill. 
 
 **Step 7:**
 
