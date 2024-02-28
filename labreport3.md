@@ -20,7 +20,7 @@
 
 **Symptom:**
 
-![Image](BugsOutputScreenshot.jpg)
+![Image](SymptomsScreenshot.jpg)
 
 **Before**
 
@@ -45,3 +45,5 @@
 `
 
 The issue with the code shown in the before image was that it was taking values from the `newArray` and using them to replace elements in `arr`. Since `newArray` is an empty array, the code would just replace all the values of the given array with zeros. The after code fixed this issue by taking the values from the first array and inserting them into the empty `newArray` backwards. Then, `newArray` is returned.
+
+
