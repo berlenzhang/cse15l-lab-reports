@@ -34,5 +34,5 @@ Keys Pressed: `bash t<Tab><Enter>` This is to run the tests again.
 
 ![Image](step9.jpg)
 
-Keys Pressed: `git commit -m "j" <Enter>`, `git push` These commands commit and push the changes I made to the files to GitHub. 
+Keys Pressed: `git add`, `git commit -m "j" <Enter>`, `git push` These commands commit and push the changes I made to the files to GitHub. 
 
