@@ -2,4 +2,4 @@
 
 ## Part 1
 
-![Image](PostScreenshot)
+![Image](PostScreenshot.jpg)
