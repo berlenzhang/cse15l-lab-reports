@@ -23,6 +23,21 @@ Hi. I think you should think about how you are adding the length of each element
 
 ## Part 4
 
+**File & Directory Strucure**
+- lab 7
+  - ListExamples.java
+  - ListExamplesTest.java
+  - test.sh
+ 
 
+
+**ListExamples.java content:**
+![Image]()
+
+**ListExamplesTest.java:**
+![Image](ListExamplesTest.jpg)
+
+**test.sh**
+![Image](testsh.jpg)
 
 
