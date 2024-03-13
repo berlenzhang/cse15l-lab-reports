@@ -32,12 +32,12 @@ Hi. I think you should think about how you are adding the length of each element
 
 
 **ListExamples.java content:**
-![Image]()
+![Image](EdStemCode.jpg)
 
-**ListExamplesTest.java:**
+**ListExamplesTest.java content:**
 ![Image](ListExamplesTest.jpg)
 
-**test.sh**
+**test.sh content:**
 ![Image](testsh.jpg)
 
 
