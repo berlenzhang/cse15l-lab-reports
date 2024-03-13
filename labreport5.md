@@ -15,6 +15,12 @@ This is the error that I am getting.
 
 Hi. I think you should think about how you are adding the length of each element in the list to the total character count. Is your code implementing what you want to achieve?
 
+## Part 3 - Fixed Results
+
+![Image](FixedCode.jpg)
+
+![Image](FixedTest.jpg)
+
 
 
 
