@@ -6,6 +6,8 @@ Hello! I am having trouble finding the error in this code. Can you help me find 
 
 ![Image](EdStemCode.jpg)
 
-This is the error that I am getiing.
+This is the error that I am getting.
 
 ![Image](PostScreenshot.jpg)
+
+
