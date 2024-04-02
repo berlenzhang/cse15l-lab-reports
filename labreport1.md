@@ -6,4 +6,7 @@
 
 ![Image](cdNoArg.jpg)
 
+Absolute path: /Users/berlenzhang/lecture1
+
+
 
