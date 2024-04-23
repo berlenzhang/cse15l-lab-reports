@@ -16,5 +16,5 @@ The method called was `handleRequest`. The relevant argument to this method is t
 
 ![Image](server2.jpg)
 
-The method called was `handleRequest`. The relevant argument to this method is the input url. A relevant field of the class is the class variable `output`. The value of `output` changed from the string `"Avi: sup"` to the string `"Avi: sup\n Daniel: hey Avi"` due to this request.
+The method called was `handleRequest`. The relevant argument to this method is the input url. A relevant field of the class is the class variable `output`. The value of `output` changed from the string `"Avi: sup"` to the string `"Avi: sup\nDaniel: hey Avi"` due to this request.
 
