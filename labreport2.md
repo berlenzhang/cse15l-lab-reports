@@ -32,5 +32,7 @@ The method called was `handleRequest`. The relevant argument to this method is t
 
 ![Image](noPassword.jpg)
 
+## Part 3
 
+One thing I learned in this week's lab was how to code a method for a web server. I enjoyed this section of the lab because I could interact with the web server and see the capabilities of the code I wrote. 
 
