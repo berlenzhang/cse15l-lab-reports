@@ -20,9 +20,15 @@ The method called was `handleRequest`. The relevant argument to this method is t
 
 ## Part 2
 
+**Private Key**
+
 ![Image](privateKey.jpg)
 
+**Public Key**
+
 ![Image](publicKey.jpg)
+
+**No Password**
 
 ![Image](noPassword.jpg)
 
