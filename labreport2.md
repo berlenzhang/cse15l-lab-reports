@@ -18,3 +18,17 @@ The method called was `handleRequest`. The relevant argument to this method is t
 
 The method called was `handleRequest`. The relevant argument to this method is the input url. A relevant field of the class is the class variable `output`. The value of `output` changed from the string `"Avi: sup"` to the string `"Avi: sup\nDaniel: hey Avi"` due to this request.
 
+## Part 2
+
+![Image](privateKey.jpg)
+
+
+
+![Image](publicKey.jpg)
+
+
+
+![Image](noPassword.jpg)
+
+
+
