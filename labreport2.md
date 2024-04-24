@@ -22,11 +22,7 @@ The method called was `handleRequest`. The relevant argument to this method is t
 
 ![Image](privateKey.jpg)
 
-
-
 ![Image](publicKey.jpg)
-
-
 
 ![Image](noPassword.jpg)
 
