@@ -8,7 +8,7 @@
 
 **Passing input:**
 
-![Image]()
+![Image](passingTest.jpg)
 
 **Symptom:**
 
