@@ -2,6 +2,6 @@
 
 # Part 1
 
-![Image]()
+![Image](junitTest.jpg)
 
 ![Image]()
