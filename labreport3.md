@@ -26,7 +26,7 @@ The reason for the code failing was it was taking the values of `newArray` and i
 
 # Part 2
 
-**G Command**
+**`G` Command**
 
 Command input 1: pressing G after running `less technical/911report/chapter-1.txt`
 
@@ -81,4 +81,36 @@ The source for this command is https://phoenixnap.com/kb/less-command-in-linux. 
 
 **`less -N` Command**
 
+Command input 1: `less -N technical/911report/chapter-12.txt`
 
+Command output 1: 
+
+```
+1 
+      2     
+      3         
+      4             WHAT TO DO? A GLOBAL STRATEGY
+      5             REFLECTING ON A GENERATIONAL CHALLENGE
+      6             Three years after 9/11, Americans are still thinking and talking about how to protect
+      7                 our nation in this new era. The national debate continues. Countering terrorism has
+      8                 become, beyond any doubt, the top national security priority for the United States.
+      9                 This shift has occurred with the full support of the Congress, both major political
+     10                 parties, the media, and the American people.
+```
+
+Command input 2: `less -N technical/plos/journal.pbio.0020001.txt`
+
+Command output 2: 
+
+```
+1 
+      2   
+      3     
+      4       
+      5         
+      6         Kofi Annan, the Secretary-General of the United Nations, recently called attention to
+      7         the clear inequalities in science between developing and developed countries and to the
+      8         challenges of building bridges across these gaps that should bring the United Nations and
+      9         the world scientific community closer to each other (Annan 2003). Mr. Annan stressed the
+     10         importance of reducing the inequalities in science between developed and developing
+```
