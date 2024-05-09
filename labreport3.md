@@ -61,7 +61,7 @@ Command output 2:
 ```
 The source for this command was ChatGPT. This command shows where you are in the file by displaying a percentage at the bottom of the page. This is useful for knowing which section of the file you are reading and also getting a sense for the size of the file.
 
-
+---
 
 **`G` Command**
 
@@ -116,7 +116,6 @@ Although the evidence presented here demonstrates that there is a long way to go
 
 The source for this command is https://phoenixnap.com/kb/less-command-in-linux. This command is used to skip to the end of a file after you run `less`. This command can be useful when you are dealing with long files and you do not want to have to scroll down to the end of it.
 
-Horizontal rule:
 ---
 
 **`less -N` Command**
@@ -157,7 +156,7 @@ Command output 2:
 
 The source for this command is https://linuxize.com/post/less-command-in-linux/. This command numbers the lines of the file. This can be useful when you want to find a certain line or when you want to cite a part of the file. 
 
-
+---
 
 **& Command**
 
