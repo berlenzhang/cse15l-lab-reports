@@ -26,11 +26,45 @@ The reason for the code failing was it was taking the values of `newArray` and i
 
 # Part 2
 
+**`-m` Command**
+
+Command input 1: `less -m technical/911report/chapter-12.txt`
+
+Command output 1:
+
+```
+ATTACK TERRORISTS AND THEIR ORGANIZATIONS
+            The U.S.government, joined by other governments around the world, is working through
+                intelligence, law enforcement, military, financial, and diplomatic channels to
+                identify, disrupt, capture, or kill individual terrorists. This effort was going on
+                before 9/11 and it continues on a vastly enlarged scale. But to catch terrorists, a
+                U.S. or foreign agency needs to be able to find and reach them.
+            No Sanctuaries
+            The 9/11 attack was a complex international operation, the product of years of
+                planning. Bombings like those in Bali in 2003 or Madrid in 2004, while able to take
+12%
+```
+
+Command input 2: `less -m technical/plos/journal.pbio.0020001.txt`
+
+Command output 2:
+
+```
+ A Long Road Yet to Travel
+        The positive trends in scientific productivity in Latin America should not be
+        misinterpreted as a reason to be unconcerned about the existing gap highlighted by Mr.
+        Annan. There are many compelling reasons for the push to increase scientific input from the
+        developing world (Goldemberg 1998; Annan 2003). One is that science, as a discipline, would
+        benefit from the contributions of many disparate groups around the world, rather than being
+        dominated by two geographic regions. Many scientific problems could be solved much more
+87%
+```
+
 **`G` Command**
 
 Command input 1: pressing G after running `less technical/911report/chapter-1.txt`
 
-Command output 2: 
+Command output 1: 
 
 ```
 The details of what happened on the morning of September 11 are complex, but they play out a simple theme. NORAD and the FAA were unprepared for the type of attacks launched against the United States on September 11, 2001. They struggled, under difficult circumstances, to improvise a homeland defense against an unprecedented challenge they had never before encountered and had never trained to meet.
@@ -44,7 +78,7 @@ The details of what happened on the morning of September 11 are complex, but the
 (END)
 ```
 
-Command input 1: 
+Command input 2: pressing G after running `less technical/plos/journal.pbio.0020001.txt`
 
 Command output 2: 
 
@@ -114,3 +148,39 @@ Command output 2:
       9         the world scientific community closer to each other (Annan 2003). Mr. Annan stressed the
      10         importance of reducing the inequalities in science between developed and developing
 ```
+
+The source for this command is https://linuxize.com/post/less-command-in-linux/. This command numbers the lines of the file. This can be useful when you want to find a certain line or when you want to cite a part of the file. 
+
+**& Command**
+
+Command input 1: `less technical/911report/chapter-12.txt` `&American`
+
+Command output 1:
+
+```
+Three years after 9/11, Americans are still thinking and talking about how to protect
+                parties, the media, and the American people.
+            This pattern has occurred before in American history. The United States faces a
+                through the processes of the American republic.
+                consider what to do-the shape and objectives of a strategy. Americans should also
+                has taught us that terrorism against American interests "over there" should be
+                regarded just as we regard terrorism against America "over here." In this same
+                sense, the American homeland is the planet. But the enemy is not just "terrorism,"
+                mean exactly what they say: to them America is the font of all evil, the "head of
+```
+
+Command input 2: `less technical/plos/journal.pbio.0020001.txt` `&trend`
+
+Command output 2:
+
+```
+implied? A closer look at the trends over the last decade reveals important advances in
+        Canada and United States, the trend in Latin America has been an increase in relative
+        the decreasing trends in the number of publications per investment dollar in Canada and
+        United States could reflect a trend towards more costly research in larger scientific
+        The positive trends in scientific productivity in Latin America should not be
+```
+
+The source for this command is https://man7.org/linux/man-pages/man1/less.1.html. This command searches for the input that comes after the `&`. For example, if you run the command `&hello` you will skip to the nearest instance of the word 'hello'. This command would be useful if you wanted to look for a specific part of the file.
+
+
