@@ -116,7 +116,8 @@ Although the evidence presented here demonstrates that there is a long way to go
 
 The source for this command is https://phoenixnap.com/kb/less-command-in-linux. This command is used to skip to the end of a file after you run `less`. This command can be useful when you are dealing with long files and you do not want to have to scroll down to the end of it.
 
-
+Horizontal rule:
+---
 
 **`less -N` Command**
 
