@@ -22,7 +22,7 @@ The method called was `handleRequest`. The relevant argument to this method is t
 
 **Private Key**
 
-![Image](privateKey.jpg)
+![Image](privateKey2.jpg)
 
 **Public Key**
 
