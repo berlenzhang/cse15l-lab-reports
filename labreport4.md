@@ -12,6 +12,6 @@ Explanation: Loggin into ieng6
 
 ![Image](step5.jpg)
 
-Keys pressed: git\<spaceclone\<space>\<command V>
+Keys pressed: git\<space>clone\<space>\<command V>
 
 Explanation:
