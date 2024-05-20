@@ -18,6 +18,6 @@ Explanation: This step cloned the `lab7` repository. The <command V> pastes the 
 
 # Step 6:
 
-![Image](step6.jpg)
+![Image](test6.jpg)
 
 Keys pressed: cd\<space>l\<tab>\<enter>bash\<space>t\<tab>
