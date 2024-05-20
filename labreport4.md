@@ -12,7 +12,7 @@ Explanation: Logging into ieng6
 
 ![Image](step5.jpg)
 
-Keys pressed: git\<space>clone\<space>\<command V>
+Keys pressed: git\<space>clone\<space>\<command V>\<enter>
 
 Explanation: This step cloned the `lab7` repository. The <command V> pastes the URL of the repository.
 
@@ -48,6 +48,6 @@ Explanation: This is to rerun the test script.
 
 ![Image](step9.jpg)
 
-Keys pressed:
+Keys pressed: git\<space>add\<space>.<enter> git\<space>commit\<space>-m\<space>"done"<enter>
 
-Explanation: 
+Explanation: This commits and pushes the edits made to GitHub.
