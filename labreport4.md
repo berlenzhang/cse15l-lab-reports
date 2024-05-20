@@ -43,3 +43,11 @@ Explanation: I run these commands after the file opens in vim to edit the conten
 Keys pressed: bash\<space>t\<tab>\<enter>
 
 Explanation: This is to rerun the test script.
+
+# Step 9:
+
+![Image](step9.jpg)
+
+Keys pressed:
+
+Explanation: 
