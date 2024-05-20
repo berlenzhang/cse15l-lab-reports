@@ -14,4 +14,10 @@ Explanation: Loggin into ieng6
 
 Keys pressed: git\<space>clone\<space>\<command V>
 
-Explanation:
+Explanation: This step cloned the `lab7` repository. The <command V> pastes the URL of the repository.
+
+# Step 6:
+
+![Image](step6.jpg)
+
+Keys pressed: cd\<space>l\<tab>\<enter>bash\<space>t\<tab>
