@@ -6,7 +6,7 @@
 
 Keys pressed: ssh\<space>byzhang@ieng6.ucsd.edu\<enter>
 
-Explanation: Loggin into ieng6
+Explanation: Logging into ieng6
 
 # Step 5:
 
@@ -20,4 +20,12 @@ Explanation: This step cloned the `lab7` repository. The <command V> pastes the 
 
 ![Image](test6.jpg)
 
-Keys pressed: cd\<space>l\<tab>\<enter>bash\<space>t\<tab>
+Keys pressed: cd\<space>l\<tab>\<enter>bash\<space>t\<tab>\<enter>
+
+Explanation: First, I changed directory into the `lab7` directory. Then, I used the `bash` command to run the test script.
+
+# Step 7:
+
+![Image](step7.jpg)
+
+Keys pressed: 
