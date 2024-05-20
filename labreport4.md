@@ -26,7 +26,7 @@ Explanation: First, I changed directory into the `lab7` directory. Then, I used 
 
 # Step 7:
 
-![Image](step7.jpg)
+![Image](step7new.jpg)
 
 Keys pressed pt. 1: vim\<space>L\<tab>.\<tab>\<enter>
 
