@@ -28,4 +28,8 @@ Explanation: First, I changed directory into the `lab7` directory. Then, I used 
 
 ![Image](step7.jpg)
 
-Keys pressed: 
+Keys pressed pt. 1: vim\<space>L\<tab>.\<tab>\<enter>
+
+Explanation: This is to open the `ListExamples.java` file in vim.
+
+Keys pressed pt. 2: 43j 3e x i 2 \<esc> :wq 
