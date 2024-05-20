@@ -33,3 +33,13 @@ Keys pressed pt. 1: vim\<space>L\<tab>.\<tab>\<enter>
 Explanation: This is to open the `ListExamples.java` file in vim.
 
 Keys pressed pt. 2: 43j 3e x i 2 \<esc> :wq 
+
+Explanation: I run these commands after the file opens in vim to edit the contents of the file. `43j` jumps to the line I want to edit, `3e` jumps to the character I want to edit, `x` deletes that character, `i` allows me to type in the file, I type `2` to replace the 1 I deleted earlier, \<esc> takes me out of typing mode, and :wq exits vim.
+
+# Step 8: 
+
+![Image](step8.jpg)
+
+Keys pressed: bash\<space>t\<tab>\<enter>
+
+Explanation: This is to rerun the test script.
