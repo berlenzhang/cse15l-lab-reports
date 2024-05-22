@@ -204,10 +204,10 @@ My following input: "Can you tell me about -m?"
 
 Output: Shown in the screenshots below.
 
-![Image](mDescripion1.jpg)
+![Image](lessDescripion1.jpg)
 
-![Image](mDescripion2.jpg)
+![Image](lessDescripion2.jpg)
 
-![Image](mDescripion3.jpg)
+![Image](lessDescripion3.jpg)
 
 
