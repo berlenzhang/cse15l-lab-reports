@@ -59,7 +59,7 @@ Command output 2:
         dominated by two geographic regions. Many scientific problems could be solved much more
 87%
 ```
-The source for this command was ChatGPT. This command shows where you are in the file by displaying a percentage at the bottom of the page. This is useful for knowing which section of the file you are reading and also getting a sense for the size of the file.
+The source for this command was ChatGPT. See the full citation for ChatGPT at the bottom of this page. This command shows where you are in the file by displaying a percentage at the bottom of the page. This is useful for knowing which section of the file you are reading and also getting a sense for the size of the file.
 
 ---
 
@@ -189,5 +189,21 @@ implied? A closer look at the trends over the last decade reveals important adva
 ```
 
 The source for this command is https://man7.org/linux/man-pages/man1/less.1.html. This command searches for the input that comes after the `&`. For example, if you run the command `&hello` you will skip to the nearest instance of the word 'hello'. This command would be useful if you wanted to look for a specific part of the file.
+
+---
+
+**ChatGPT Citation**
+
+My input: "Can you list some less command line options for me?"
+
+Output: ChatGPT then listed several options, including `-m` as shown in the screenshot below.
+
+![Image](lessM.jpg)
+
+My following input: "Can you tell me about -m?"
+
+Output: Shown in the screenshots below.
+
+![Image](mDescripion1.jpg)
 
 
