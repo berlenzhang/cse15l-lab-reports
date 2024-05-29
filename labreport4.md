@@ -4,7 +4,7 @@
 
 ![Image](step4.jpg)
 
-Keys pressed: ssh\<space>byzhang@ieng6.ucsd.edu\<enter>
+Keys pressed: ssh`\<space>`byzhang@ieng6.ucsd.edu`\<enter>`
 
 Explanation: Logging into ieng6
 
