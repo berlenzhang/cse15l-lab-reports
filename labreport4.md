@@ -14,13 +14,13 @@ Explanation: Logging into ieng6
 
 Keys pressed: git`<space>`clone`<space>` `<command V>` `<enter>`
 
-Explanation: This step cloned the `lab7` repository. The \<command V> pastes the URL of the repository.
+Explanation: This step cloned the `lab7` repository. The `<command V>` pastes the URL of the repository.
 
 # Step 6:
 
 ![Image](test6.jpg)
 
-Keys pressed: cd\<space>l\<tab>\<enter>bash\<space>t\<tab>\<enter>
+Keys pressed: cd`<space>`l`<tab>` `<enter>`bash`<space>`t`<tab>` `<enter>`
 
 Explanation: First, I changed directory into the `lab7` directory. Then, I used the `bash` command to run the test script.
 
