@@ -4,7 +4,7 @@
 
 ![Image](step4.jpg)
 
-Keys pressed: ssh`\<space>`byzhang@ieng6.ucsd.edu`\<enter>`
+Keys pressed: ssh`<space>`byzhang@ieng6.ucsd.edu`<enter>`
 
 Explanation: Logging into ieng6
 
@@ -12,7 +12,7 @@ Explanation: Logging into ieng6
 
 ![Image](step5.jpg)
 
-Keys pressed: git\<space>clone\<space>\<command V>\<enter>
+Keys pressed: git`<space>`clone`<space>``<command V>``<enter>`
 
 Explanation: This step cloned the `lab7` repository. The \<command V> pastes the URL of the repository.
 
