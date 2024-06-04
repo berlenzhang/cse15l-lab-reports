@@ -12,6 +12,10 @@ Hi. I can't seem to find the bug in my `toLowerArray` function. I believe there 
 **TA:**
 Hello! Your for-loop is fine. My suggestion for you would be to pay attention to what variable you are calling `toLowerCase` on and putting into the output array. 
 
+---
+
+**Description:**
+The mistake that the student was making was that they were calling `.toLowerCase` on the values in the empty output array `lowerArr` and assigning them to the same array. To fix this, they changed the second `lowerArr` on line 14 to `strings`.
 
 **Fixed Code:**
 
@@ -19,9 +23,19 @@ Hello! Your for-loop is fine. My suggestion for you would be to pay attention to
 
 ![Image](lowerArrayPass.jpg)
 
+**Files Before Fixing Bug**
+
+![Image](lowerArrayBug.jpg)
+
+![Image](lowerArraySymp.jpg)
+
+![Image](bashSS.jpg)
+
 **File & Directory Structure**
 
 * lab7
   * ListExamples.java
   * ListExamplesTest.java
   * test.sh
+ 
+ 
