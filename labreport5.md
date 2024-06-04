@@ -38,6 +38,6 @@ The mistake that the student was making was that they were calling `.toLowerCase
   * ListExamplesTest.java
   * test.sh
  
-# Part 2: Reflection
+## Part 2: Reflection
 
 My favorite thing from the second half of taking this class was learning how to use a debugger.I had not heard of using debuggers before this, but I feel like there are many times in the past where using one would have saved me a lot of time. It seems like a very useful tool code tracing when code gets complicated.
