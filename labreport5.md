@@ -18,3 +18,10 @@ Hello! Your for-loop is fine. My suggestion for you would be to pay attention to
 ![Image](lowerArrayFixed.jpg)
 
 ![Image](lowerArrayPass.jpg)
+
+**File & Directory Structure**
+
+* lab7
+  * ListExamples.java
+  * ListExamplesTest.java
+  * test.sh
