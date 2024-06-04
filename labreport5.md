@@ -12,6 +12,9 @@ Hi. I can't seem to find the bug in my `toLowerArray` function. I believe there 
 **TA:**
 Hello! Your for-loop is fine. My suggestion for you would be to pay attention to what variable you are calling `toLowerCase` on and putting into the output array. 
 
+
+**Fixed Code:**
+
 ![Image](lowerArrayFixed.jpg)
 
 ![Image](lowerArrayPass.jpg)
