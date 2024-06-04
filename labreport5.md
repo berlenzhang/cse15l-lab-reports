@@ -7,5 +7,7 @@ Hi. I can't seem to find the bug in my `toLowerArray` function. I believe there 
 
 ![Image](lowerArrayBug.jpg)
 
+![Image](lowerArraySymp.jpg)
+
 ![Image](lowerArrayFixed.jpg)
 
