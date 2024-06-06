@@ -46,7 +46,7 @@ Explanation: This is to rerun the test script.
 
 # Step 9:
 
-![Image](step9.jpg)
+![Image](push.jpg)
 
 Keys pressed: `git<space>add<space>.<enter> git<space>commit<space>-m<space>"done"<enter>`
 
