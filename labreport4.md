@@ -48,6 +48,6 @@ Explanation: This is to rerun the test script.
 
 ![Image](push.jpg)
 
-Keys pressed: `git<space>add<space>.<enter> git<space>commit<space>-m<space>"done"<enter>`
+Keys pressed: `git<space>add<space>.<enter> git<space>` `commit<space>-m<space>"done"<enter>` `git<space>push`
 
 Explanation: This commits and pushes the edits made to GitHub.
