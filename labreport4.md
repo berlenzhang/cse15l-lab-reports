@@ -12,7 +12,7 @@ Explanation: Logging into ieng6
 
 ![Image](step5.jpg)
 
-Keys pressed: git`<space>`clone`<space>` `<command V>` `<enter>`
+Keys pressed: `git<space>clone<space> <command V> <enter>`
 
 Explanation: This step cloned the `lab7` repository. The `<command V>` pastes the URL of the repository.
 
@@ -20,7 +20,7 @@ Explanation: This step cloned the `lab7` repository. The `<command V>` pastes th
 
 ![Image](test6.jpg)
 
-Keys pressed: cd`<space>`l`<tab>` `<enter>`bash`<space>`t`<tab>` `<enter>`
+Keys pressed: `cd<space>l<tab> <enter>bash<space>t<tab> <enter>`
 
 Explanation: First, I changed directory into the `lab7` directory. Then, I used the `bash` command to run the test script.
 
@@ -28,7 +28,7 @@ Explanation: First, I changed directory into the `lab7` directory. Then, I used 
 
 ![Image](step7new.jpg)
 
-Keys pressed pt. 1: vim `<space>`L`<tab>`.`<tab>` `<enter>`
+Keys pressed pt. 1: `vim <space>L<tab>.<tab> <enter>`
 
 Explanation: This is to open the `ListExamples.java` file in vim.
 
@@ -40,7 +40,7 @@ Explanation: I run these commands after the file opens in vim to edit the conten
 
 ![Image](step8.jpg)
 
-Keys pressed: bash`<space>`t`<tab>` `<enter>`
+Keys pressed: `bash<space>t<tab> <enter>`
 
 Explanation: This is to rerun the test script.
 
@@ -48,6 +48,6 @@ Explanation: This is to rerun the test script.
 
 ![Image](step9.jpg)
 
-Keys pressed: git`<space>`add`<space>`.`<enter>` git`<space>`commit`<space>`-m`<space>`"done"`<enter>`
+Keys pressed: `git<space>add<space>.<enter> git<space>commit<space>-m<space>"done"<enter>`
 
 Explanation: This commits and pushes the edits made to GitHub.
